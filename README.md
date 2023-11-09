@@ -31,11 +31,5 @@ To get started with the course, clone this repository and follow the instruction
 
 While this course is designed to be accessible to beginners, some prior programming experience is recommended. Familiarity with object-oriented programming concepts and syntax will be beneficial.
 
-## Resources
 
-In addition to the course content in this repository, the following resources are recommended for further learning and reference:
-
-- [Kotlin Documentation](https://kotlinlang.org/docs/home.html)
-- [Kotlin Koans](https://play.kotlinlang.org/koans/overview)
-- [Kotlin Coding Conventions](https://kotlinlang.org/docs/coding-conventions.html)
 
